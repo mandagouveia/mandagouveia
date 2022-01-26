@@ -1,4 +1,4 @@
-  Hi, everyone! 🙋🏽‍♀️
+  **Hi, everyone!** 🙋🏽‍♀️
 
 
 - 👩🏼‍💻 I’m currently working on Accenture Brazil 💜 as a QA;
