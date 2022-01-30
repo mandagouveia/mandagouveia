@@ -5,8 +5,8 @@
 - 🤓 I’m learning Python;
 - 😄 Pronouns: Ela/Dela;
 - ⚡ Fun fact: I'm also a Biologist 👩🏼‍🔬;
-- 📚 Attending college in Analysis and Systems development.
-- 📫 How to reach me: amanda_gouveia_@hotmail.com;
+- 📚 Attending college in Analysis and Systems development;
+- 📫 How to reach me: amanda_gouveia_@hotmail.com.
 
 
  <a href="https://instagram.com/mandagouveia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
