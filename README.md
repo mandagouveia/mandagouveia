@@ -1,9 +1,9 @@
   **Hi, everyone!** 🙋🏽‍♀️
 
 
-- 👩🏼‍💻 I’m currently working on Accenture Brazil 💜 as a QA;
-- 🤓 I’m learning Python;
-- 😄 Pronouns: Ela/Dela;
+- 👩🏼‍💻 I’m currently working on idwall 💜 as a QA;
+- 🤓 I’m focused on Performance test activities, with jmeter;
+- 😄 Studying K6 and javascript;
 - ⚡ Fun fact: I'm also a Biologist 👩🏼‍🔬;
 - 📚 Attending college in Analysis and Systems development;
 - 📫 How to reach me: amanda_gouveia_@hotmail.com.
